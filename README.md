@@ -1,7 +1,5 @@
 # Vue 3.2 + TypeScript + Pinia + Vite2 + Element-Plus 管理系统（开源啦 🎉🎉）
 
-![banner](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/md/banner.png)
-
 ## 前言 📖
 
 > Joy Admin，是基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理模板，目前利用空余时间开发了三个月左右 🕒🕒。项目中很多功能、样式都是借鉴别的管理系统，但代码是完全自己手写的，整个项目还有很多地方不完善，后期会持续更新。项目中有很多地方写得不是很好，希望大家能多提意见。
@@ -33,7 +31,6 @@
 - 🚀 使用 keep-alive 对整个页面进行缓存，支持多级嵌套页面（缓存路由里可配置、页面切换带动画）
 - 🚀 常用自定义指令开发（复制、水印、拖拽、节流、防抖、长按……）
 - 🚀 使用 Prettier 统一格式化代码，集成 Eslint、Stylelint 代码校验规范（STANDARD.md 文件）
-- 🚀 使用 husky、lint-staged、commitlint、commitizen、cz-git 规范提交信息（STANDARD.md 文件）
 
 ## 四、安装使用步骤
 
@@ -53,15 +50,12 @@ cnpn install
 # npm install 安装失败，请升级 nodejs 到 16 以上，或尝试使用以下命令：
 npm install --registry=https://registry.npm.taobao.org
 
-# 这里没用，只是为了指定版本
-npm i @element-plus/icons-vue@1.1.4 @vueuse/core@8.0.1 axios@0.27.2 echarts@5.3.0 echarts-liquidfill@3.1.0 element-plus@2.2.2 js-md5@0.7.3 nprogress@0.2.0 pinia@2.0.12 qs@6.10.3 vue@3.2.25 vue-router@4.0.12 vue-i18n@9.1.9 vue3-seamless-scroll@1.2.0 --save
 ```
 
 - **Run：**
 
 ```text
 npm run dev
-npm run serve
 ```
 
 - **Build：**
@@ -86,15 +80,6 @@ npm run lint:eslint
 # prettier 格式化代码
 npm run lint:prettier
 
-# stylelint 格式化 css 样式
-lint:stylelint
-```
-
-- **commit：**
-
-```text
-# 提交代码（会自动执行 lint:lint-staged 命令）
-npm run commit
 ```
 
 ## 五、项目截图
@@ -125,7 +110,6 @@ npm run commit
 
 ```text
 Joy-Admin
-├─ .vscode                # vscode推荐配置
 ├─ public                 # 静态资源文件（忽略打包）
 ├─ src
 │  ├─ api                 # API 接口管理
@@ -156,17 +140,12 @@ Joy-Admin
 ├─ .gitignore             # git 提交忽略
 ├─ .prettierignore        # 忽略 prettier 格式化
 ├─ .prettierrc.js         # prettier 配置
-├─ .stylelintignore       # 忽略 stylelint 格式化
-├─ commitlint.config.js   # git 提交规范配置
 ├─ index.html             # 入口 html
 ├─ LICENSE                # 开源协议
-├─ lint-staged.config     # lint-staged 配置
 ├─ package-lock.json      # 包版本锁
 ├─ package.json           # 包管理
 ├─ postcss.config.js      # postcss 配置
 ├─ README.md              # README 介绍
-├─ STANDARD.md            # 项目规范文档
-├─ stylelint.config.js    # stylelint 格式化配置
 ├─ tsconfig.json          # typescript 全局配置
 └─ vite.config.ts         # vite 配置
 ```
@@ -186,13 +165,3 @@ Joy-Admin
 > 项目后台接口完全采用 Mock 数据  
 > 推荐一个在线 Mock 平台： https://www.fastmock.site/
 
-## 九、Vue3 优秀项目推荐 ✨
-
-- gin-vue-admin：https://github.com/flipped-aurora/gin-vue-admin
-- vue-vben-admin：https://github.com/vbenjs/vue-vben-admin
-
-## 十、微信交流群
-
-> **😀 微信群超过 200 人了，请加我好友，我拉大家进群。**
-
-![weixina](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220531123001.png)
