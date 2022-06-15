@@ -11,7 +11,7 @@
 
 ## 一、在线预览 👀
 
-- Link：http://admin.spicyboy.cn
+- Link：https://yijunsong-budidiao.github.io/Joy-Admin/dist （有点卡，毕竟没钱买服务器🤣）
 
 ## 二、Git 仓库地址 (欢迎 Star⭐)
 
