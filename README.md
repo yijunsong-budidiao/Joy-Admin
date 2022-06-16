@@ -16,6 +16,7 @@
 ## 二、Git 仓库地址 (喜欢给个 Star⭐)
 
 - GitHub：https://github.com/yijunsong-budidiao/Joy-Admin
+- Gitee：https://gitee.com/yi-junsong/Joy-Admin
 
 ## 三、🔨🔨🔨 项目功能
 
@@ -37,7 +38,9 @@
 
 ```text
 # GitHub
-git clone https://github.com/yijunsong-budidiao/Joy-Admin
+git clone https://github.com/yijunsong-budidiao/Joy-Admin.git
+# Gitee
+git clone https://gitee.com/yi-junsong/Joy-Admin.git
 ```
 
 - **Install：**
