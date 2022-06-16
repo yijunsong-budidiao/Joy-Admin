@@ -41,6 +41,8 @@
 git clone https://github.com/yijunsong-budidiao/Joy-Admin.git
 # Gitee
 git clone https://gitee.com/yi-junsong/Joy-Admin.git
+
+或者去网址复制ssh方式也可以
 ```
 
 - **Install：**
