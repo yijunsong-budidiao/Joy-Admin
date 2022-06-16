@@ -42,14 +42,14 @@ git clone https://github.com/yijunsong-budidiao/Joy-Admin.git
 # Gitee
 git clone https://gitee.com/yi-junsong/Joy-Admin.git
 
-或者去网址复制ssh方式也可以
+或者去复制ssh方式也可以
 ```
 
 - **Install：**
 
 ```text
 npm install
-cnpn install
+cnpm install
 
 # npm install 安装失败，请升级 nodejs 到 16 以上，或尝试使用以下命令：
 npm install --registry=https://registry.npm.taobao.org
