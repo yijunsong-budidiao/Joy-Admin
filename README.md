@@ -1,8 +1,8 @@
-# Vue 3.2 + TypeScript + Pinia + Vite2 + Element-Plus 管理系统
+# 开箱即用的 Vue 3.2 + TypeScript + Pinia + Vite2 + Element-Plus 管理系统框架
 
 ## 前言 📖
 
-> Joy Admin，是基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理模板，目前利用空余时间开。整个项目还有很多地方不完善，后期会持续更新。项目中有很多地方写得不是很好，希望大家能多提宝贵意见。
+> Joy Admin，是基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理模板，目前利用空余时间开。整个项目还有很多地方不完善，后期会持续更新。项目中有很多地方写得不是很好，希望大家能多提宝贵意见。后续会不断迭代 🎀🎀🎀
 
 ## 为什么开发这个管理系统？🤷‍♂️
 
@@ -11,7 +11,7 @@
 
 ## 一、在线预览 👀
 
-- Link：https://yijunsong-budidiao.github.io/Joy-Admin/dist （有点卡，毕竟没钱买服务器 🤣）
+- Link：https://yijunsong-budidiao.github.io/Joy-Admin （有点卡，毕竟没钱买服务器 🤣）
 
 ## 二、Git 仓库地址 (喜欢给个 Star⭐)
 
@@ -114,6 +114,7 @@ npm run lint:prettier
 
 ```text
 Joy-Admin
+├─ .github                # CI 发布配置
 ├─ public                 # 静态资源文件（忽略打包）
 ├─ src
 │  ├─ api                 # API 接口管理
