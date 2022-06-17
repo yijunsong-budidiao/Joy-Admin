@@ -1,0 +1,51 @@
+{
+  "id": "3472231",
+  "name": "joy-admin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5387604",
+      "name": "取消全屏",
+      "font_class": "quxiaoquanping",
+      "unicode": "eb10",
+      "unicode_decimal": 60176
+    },
+    {
+      "icon_id": "5387606",
+      "name": "全屏",
+      "font_class": "quanping",
+      "unicode": "eb11",
+      "unicode_decimal": 60177
+    },
+    {
+      "icon_id": "4251744",
+      "name": "皮肤",
+      "font_class": "pifu1",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "722048",
+      "name": "th-large",
+      "font_class": "thlarge",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "4570298",
+      "name": "英文",
+      "font_class": "yingwen",
+      "unicode": "ebe0",
+      "unicode_decimal": 60384
+    },
+    {
+      "icon_id": "4573742",
+      "name": "中文",
+      "font_class": "zhongwen",
+      "unicode": "ebe2",
+      "unicode_decimal": 60386
+    }
+  ]
+}

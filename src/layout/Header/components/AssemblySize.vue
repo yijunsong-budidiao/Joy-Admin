@@ -2,7 +2,7 @@
 	<el-dropdown trigger="click" @command="setAssemblySize">
 		<span class="el-dropdown-link">
 			<el-tooltip effect="dark" :content="$t('header.componentSize')" placement="bottom">
-				<i :class="'iconfont icon-contentright'" class="icon-style"></i>
+				<i :class="'iconfont icon-thlarge'" class="icon-style"></i>
 			</el-tooltip>
 		</span>
 		<template #dropdown>

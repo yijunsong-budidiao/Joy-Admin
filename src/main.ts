@@ -5,9 +5,7 @@ import "@/styles/reset.scss";
 // CSS common style sheet
 import "@/styles/common.scss";
 // iconfont css
-import "@/assets/iconfont/iconfont.scss";
-// font css
-import "@/assets/fonts/font.scss";
+import "@/assets/iconfont/iconfont.css";
 // element plus
 import ElementPlus from "element-plus";
 // element icons
