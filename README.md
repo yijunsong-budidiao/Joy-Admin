@@ -90,25 +90,28 @@ npm run lint:prettier
 
 ### 1、登录页：
 
-![login_bg03](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/md/login_bg03.png)
+![login_light](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220617054532_login_light.png)
 
-![login_dark01](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/md/login_dark01.png)
+![login_dark](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220617054611_login_dark.jpg)
 
-### 2、首页：
 
-![home_light](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/md/home_light.png)
+### 2、表格页：
 
-![home-dark](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220602145003.png)
+![table_light](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220617054617_table.jpg)
 
-### 3、表格页：
+![table_dark](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220617055359_table_dark.jpg)
 
-![table_light](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/md/table_light.png)
 
-![table-dark](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220602145016.png)
+### 3、Echarts：
+
+![echarts_light](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220617054604_echarts.jpg)
+
+![echarts_dark](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220617055350_echarts_dark.jpg)
+
 
 ### 4、数据大屏：
 
-![dataScreen02](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/img/20220602170253.png)
+![data_screen](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220617055019_data_screen.jpg)
 
 ## 六、文件资源目录 📚
 
@@ -157,7 +160,7 @@ Joy-Admin
 
 ## 七、浏览器支持
 
-> 默认支持以下浏览器，vue3.2 不支持 IE 浏览器。更多浏览器可以查看 [Can I Use Es Module](https://caniuse.com/?search=ESModule)
+> 默认支持以下浏览器，vue3.2 不支持 IE 浏览器 (PS: 听说ie浏览器已经结束了自己跌宕起伏的一生了😝)。更多浏览器可以查看 [Can I Use Es Module](https://caniuse.com/?search=ESModule)
 >
 > **💢 请不要使用 QQ 浏览器开发，QQ 浏览器 不识别 某些 ES6 以上语法**
 
