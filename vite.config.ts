@@ -19,6 +19,8 @@ export default defineConfig((mode: ConfigEnv): UserConfig => {
 	const viteEnv = wrapperEnv(env);
 
 	return {
+		// 为了自己的github部署配置, 只有npm run build:github会带 "/Joy-Admin/" 前缀，其他build命令正常，如不需要可直接删除
+		base: mode.mode === "github" ? "/Joy-Admin/" : "/",
 		resolve: {
 			alias: {
 				"@": resolve(__dirname, "./src"),

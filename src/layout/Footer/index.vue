@@ -1,6 +1,6 @@
 <template>
 	<div class="footer flx-center">
-		<a href="http://www.spicyboy.cn/" target="_blank"> 2022 © Joy-Admin By Joy Technology. </a>
+		<a href="https://www.cnblogs.com/yijunsong/" target="_blank"> 2022 © Joy-Admin By Joy Technology. </a>
 	</div>
 </template>
 
