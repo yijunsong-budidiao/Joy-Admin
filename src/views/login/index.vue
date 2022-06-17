@@ -1,5 +1,5 @@
 <template>
-	<div class="login-container flx-center" :style="{ backgroundImage: `url(${login_bg_svg})` }">
+	<div class="login-container flx-center">
 		<SwitchDark class="dark"></SwitchDark>
 		<div class="login-content">
 			<div class="login-left">
@@ -25,7 +25,6 @@ import LoginForm from "./components/LoginForm.vue";
 import { LoginFormExpose } from "./interface/index";
 import { Login } from "@/api/interface/index";
 import { ref, reactive, provide } from "vue";
-import login_bg_svg from "@/assets/images/login_bg.svg";
 
 // * 以下数据都为自己测试使用，不参与功能开发
 // 使用provide传方法
