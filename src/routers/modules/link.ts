@@ -34,17 +34,6 @@ const myBlogRouter: Array<RouteRecordRaw> = [
 				}
 			},
 			{
-				path: "/link/juejin",
-				name: "juejin",
-				component: () => import("@/views/link/juejin/index.vue"),
-				meta: {
-					keepAlive: true,
-					requiresAuth: true,
-					title: "掘金文档",
-					key: "juejin"
-				}
-			},
-			{
 				path: "/link/myBlog",
 				name: "myBlog",
 				component: () => import("@/views/link/myBlog/index.vue"),

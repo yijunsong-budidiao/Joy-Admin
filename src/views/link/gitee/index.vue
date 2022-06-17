@@ -2,9 +2,7 @@
 	<div class="content-box">
 		<span class="text">
 			Gitee 仓库：
-			<a href="https://github.com/yijunsong-budidiao/Joy-Admin" target="_blank"
-				>https://github.com/yijunsong-budidiao/Joy-Admin</a
-			>
+			<a href="https://gitee.com/yi-junsong/Joy-Admin" target="_blank">https://gitee.com/yi-junsong/Joy-Admin</a>
 			🍒🍉🍊
 		</span>
 	</div>
