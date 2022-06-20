@@ -1,5 +1,10 @@
 <template>
 	<div class="content-box">
+		<div class="link">
+			高德地图api：<a href="https://lbs.amap.com/api/jsapi-v2/summary/" target="_blank"
+				>https://lbs.amap.com/api/jsapi-v2/summary/</a
+			>
+		</div>
 		<div id="tip">
 			<input type="text" id="keyword" name="keyword" placeholder="请输入关键字：(选定后搜索)" autocomplete="off" />
 		</div>

@@ -1,0 +1,50 @@
+.avatar-uploader {
+	.el-upload {
+		border: 1px dashed #d9d9d9;
+		border-radius: 6px;
+		cursor: pointer;
+		position: relative;
+		overflow: hidden;
+		transition: 0.5s;
+	}
+	.el-upload:hover {
+		border-color: #409eff;
+	}
+	img {
+		width: 320px;
+		height: 180px;
+	}
+}
+.el-icon.avatar-uploader-icon {
+	font-size: 28px;
+	color: #8c939d;
+	width: 320px;
+	height: 180px;
+	text-align: center;
+	border: 1px dashed #8c939d;
+}
+.avatar {
+	width: 178px;
+	height: 178px;
+	display: block;
+}
+.cropper {
+	width: auto;
+	height: 320px;
+}
+.crop-imgs-group {
+	margin-top: 20px;
+	display: flex;
+	flex-wrap: wrap;
+	.crop-img {
+		height: 180px;
+		margin: 5px;
+		border: 3px solid #409eff;
+		img {
+			height: 100%;
+		}
+	}
+}
+.link {
+	margin-bottom: 20px;
+}

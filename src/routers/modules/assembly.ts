@@ -43,6 +43,17 @@ const assemblyRouter: Array<RouteRecordRaw> = [
 					title: "高德地图",
 					key: "amap"
 				}
+			},
+			{
+				path: "/assembly/cropper",
+				name: "cropper",
+				component: () => import("@/views/assembly/cropper/index.vue"),
+				meta: {
+					keepAlive: true,
+					requiresAuth: true,
+					title: "裁剪图片",
+					key: "cropper"
+				}
 			}
 		]
 	}
