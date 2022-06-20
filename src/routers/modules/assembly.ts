@@ -65,6 +65,17 @@ const assemblyRouter: Array<RouteRecordRaw> = [
 					title: "markdown",
 					key: "markdown"
 				}
+			},
+			{
+				path: "/assembly/canvas",
+				name: "canvas",
+				component: () => import("@/views/assembly/canvas/index.vue"),
+				meta: {
+					keepAlive: true,
+					requiresAuth: true,
+					title: "canvas画布",
+					key: "canvas"
+				}
 			}
 		]
 	}

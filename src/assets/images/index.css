@@ -1,0 +1,113 @@
+body {
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+}
+
+#can {
+    box-shadow: 0 0 6px #333;
+    margin-top: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    /* 改变鼠标指针为画笔，尽量使用ico结尾的，或者cur。
+    2 24 是调整水平垂直指针焦点位置，默认为 0 0 位置，也就是左上角
+    当前是阿里矢量图标看下载的画笔png图片，然后转化为ico格式，
+    左下角体验会更合理一些，2 24 比较合适 */
+    cursor: url(../images/pencil.ico) 2 24, auto;
+}
+
+.wrap1 {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.wrap2 {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.word {
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.text {
+    width: 150px;
+    height: 70px;
+    border: 1px solid #333;
+    float: left;
+    font-size: 30px;
+    line-height: 70px;
+    text-align: center;
+    border-radius: 5px;
+    font-family: "楷体";
+    position: relative;
+    background-color: #fff;
+}
+
+.remind {
+    width: 160px;
+    height: 70px;
+    border: 1px solid #333;
+    float: left;
+    font-size: 15px;
+    line-height: 70px;
+    text-align: center;
+    margin-left: 30px;
+    border-radius: 5px;
+    color: red;
+    background-color: #fff;
+}
+
+.box1 {
+    float: left;
+    margin-left: 30px;
+}
+
+.box1 div {
+    width: 80px;
+    height: 30px;
+    background: linear-gradient(to right, #3F99FC, #7356FF);
+    margin-top: 5px;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+    cursor: pointer;
+}
+
+#save {
+    background: linear-gradient(to right, #3F99FC, #7356FF);
+    color: #fff;
+    text-align: center;
+    border: 0;
+    border-radius: 5px;
+    height: 25px;
+    outline: none;
+    cursor: pointer;
+}
+
+#count {
+    height: 30px;
+    line-height: 40px;
+}
+
+#des {
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.cover {
+    position: absolute;
+    background-color: #333;
+    width: 150px;
+    height: 70px;
+    top: 0;
+    transition: .5s;
+    color: #fff;
+}
+
+#weight {
+    position: relative;
+    top: -2px;
+}

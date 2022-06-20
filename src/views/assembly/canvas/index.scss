@@ -1,0 +1,25 @@
+.content-box {
+	background-image: url(@/assets/images/bg.jpg);
+	background-size: 100% 100%;
+}
+
+#can {
+	box-shadow: 0 0 6px #333;
+	margin-top: 20px;
+	background-color: #fff;
+	border-radius: 10px;
+	/* 改变鼠标指针为画笔，尽量使用ico结尾的，或者cur。
+	2 24 是调整水平垂直指针焦点位置，默认为 0 0 位置，也就是左上角
+	当前是阿里矢量图标看下载的画笔png图片，然后转化为ico格式，
+	左下角体验会更合理一些，2 24 比较合适 */
+	cursor: url(@/assets/images/pencil.ico) 2 24, auto;
+}
+.toolbar {
+	white-space: nowrap;
+	width: 500px;
+	display: flex;
+	margin-top: 10px;
+	.btn {
+		margin-left: 10px;
+	}
+}
