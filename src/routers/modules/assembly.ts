@@ -32,6 +32,17 @@ const assemblyRouter: Array<RouteRecordRaw> = [
 					title: "批量导入数据",
 					key: "batchImport"
 				}
+			},
+			{
+				path: "/assembly/amap",
+				name: "amap",
+				component: () => import("@/views/assembly/amap/index.vue"),
+				meta: {
+					keepAlive: true,
+					requiresAuth: true,
+					title: "高德地图",
+					key: "amap"
+				}
 			}
 		]
 	}

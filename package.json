@@ -16,6 +16,7 @@
 		"lint:prettier": "prettier --write --loglevel warn \"src/**/*.{js,ts,json,tsx,css,less,vue,html,md}\""
 	},
 	"dependencies": {
+		"@amap/amap-jsapi-loader": "^1.0.1",
 		"@element-plus/icons-vue": "^1.1.4",
 		"@vueuse/core": "^8.0.1",
 		"axios": "^0.27.2",
