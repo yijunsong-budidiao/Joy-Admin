@@ -2,6 +2,7 @@
 	<div>
 		<div class="link">
 			npm地址：<a href="https://www.npmjs.com/package/vue-cropper" target="_blank">https://www.npmjs.com/package/vue-cropper</a>
+			------ `npm i vue-cropper@next -S` 安装vue3版本
 		</div>
 		<el-upload
 			class="avatar-uploader"

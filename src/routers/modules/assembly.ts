@@ -54,6 +54,17 @@ const assemblyRouter: Array<RouteRecordRaw> = [
 					title: "裁剪图片",
 					key: "cropper"
 				}
+			},
+			{
+				path: "/assembly/markdown",
+				name: "markdown",
+				component: () => import("@/views/assembly/markdown/index.vue"),
+				meta: {
+					keepAlive: true,
+					requiresAuth: true,
+					title: "markdown",
+					key: "markdown"
+				}
 			}
 		]
 	}

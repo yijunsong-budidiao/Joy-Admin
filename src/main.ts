@@ -26,6 +26,16 @@ import router from "@/routers/index";
 import I18n from "@/language/index";
 // pinia store
 import pinia from "@/store/index";
+// markdown
+import VueMarkdownEditor from "@kangc/v-md-editor";
+import "@kangc/v-md-editor/lib/style/base-editor.css";
+import vuepressTheme from "@kangc/v-md-editor/lib/theme/vuepress.js";
+import "@kangc/v-md-editor/lib/theme/style/vuepress.css";
+import Prism from "prismjs";
+
+VueMarkdownEditor.use(vuepressTheme, {
+	Prism
+});
 
 const app = createApp(App);
 
@@ -34,4 +44,4 @@ Object.keys(Icons).forEach(key => {
 	app.component(key, Icons[key as keyof typeof Icons]);
 });
 
-app.use(router).use(I18n).use(pinia).use(directives).use(ElementPlus).mount("#app");
+app.use(router).use(I18n).use(pinia).use(directives).use(ElementPlus).use(VueMarkdownEditor).mount("#app");
