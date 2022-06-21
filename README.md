@@ -117,12 +117,13 @@ npm run lint:prettier
 
 ### 5、帅气好用的组件：
 
+##### 高德地图
 ![map](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220621083918_map.jpg)
-
+##### markdown
 ![markdown](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220621084243_markdown.jpg)
-
+##### 截取图片
 ![cropper](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220621084312_cropper.jpg)
-
+##### canvas画布
 ![canvas](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220621084756_canvas.jpeg)
 
 ## 六、文件资源目录 📚
