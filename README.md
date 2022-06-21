@@ -87,7 +87,7 @@ npm run lint:prettier
 
 ```
 
-## 五、项目截图 ✌️
+## 五、项目截图 ✌️ (截图gitee暂时显示不了，因为权限问题，懂得都懂😉)
 
 ### 1、登录页：
 
@@ -113,6 +113,17 @@ npm run lint:prettier
 ### 4、数据大屏：
 
 ![data_screen](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220617055019_data_screen.jpg)
+
+
+### 5、帅气好用的组件：
+
+![map](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220621083918_map.jpg)
+
+![markdown](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220621084243_markdown.jpg)
+
+![cropper](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220621084312_cropper.jpg)
+
+![canvas](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220621084756_canvas.jpeg)
 
 ## 六、文件资源目录 📚
 
@@ -177,3 +188,11 @@ Joy-Admin
 
 > emoji 平台： https://emojixd.com/
 > 在线 Mock 平台： https://www.fastmock.site/
+
+## 十、技术交流QQ群，可在线答疑解惑 ⁉️
+
+> 群号： 478980939
+
+|                                                      QQ群二维码                                                       |
+| :-------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220621085605_qq.jpg" alt="Wechat QRcode" width=250> |
