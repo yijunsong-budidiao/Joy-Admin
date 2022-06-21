@@ -2,7 +2,7 @@
 	<div class="content-box">
 		<div class="toolbar">
 			颜色：
-			<el-color-picker v-model="color" />
+			<el-color-picker v-model="color" show-alpha />
 			粗细：
 			<el-slider v-model="penSize" :min="1" :max="50" />
 			<el-button class="btn" @click="reset" type="danger">点击清空</el-button>
