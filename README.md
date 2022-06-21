@@ -7,6 +7,7 @@
 ## 为什么开发这个管理系统？🤷‍♂️
 
 > 1、主要是锻炼下 Vue3 + TypeScript 的能力
+
 > 2、其他人写的都太庞大，架构设计没有好坏，适合自己的才是最好的
 
 ## 一、在线预览 👀
@@ -188,6 +189,7 @@ Joy-Admin
 ## 九、推荐网站 🔗
 
 > emoji 平台： https://emojixd.com/
+
 > 在线 Mock 平台： https://www.fastmock.site/
 
 ## 十、技术交流QQ群，可在线答疑解惑 ⁉️
