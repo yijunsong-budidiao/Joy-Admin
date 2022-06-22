@@ -7,7 +7,7 @@
 ## 为什么开发这个管理系统？🤷‍♂️
 
 > 1、主要是锻炼下 Vue3 + TypeScript 的能力
-
+>
 > 2、其他人写的都太庞大，架构设计没有好坏，适合自己的才是最好的
 
 ## 一、在线预览 👀
@@ -174,11 +174,13 @@ Joy-Admin
 
 ## 七、浏览器支持 🔎
 
-> 默认支持以下浏览器，vue3.2 不支持 IE 浏览器 (PS: 听说ie浏览器已经结束了自己跌宕起伏的一生了😝)。更多浏览器可以查看 [Can I Use Es Module](https://caniuse.com/?search=ESModule)
+> 默认支持以下浏览器，vue3.2 不支持 IE 浏览器 (PS: 听说ie浏览器已经结束了自己跌宕起伏的一生了😝)。
+>
+> 更多浏览器可以查看 [Can I Use Es Module](https://caniuse.com/?search=ESModule)
 >
 > **💢 请不要使用 QQ 浏览器开发，QQ 浏览器 不识别 某些 ES6 以上语法**
 
-| ![Edge](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/md/Edge.png) | ![Firefox](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/md/Firefox.png) | ![Chrome](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/md/Chrome.png) | ![Safari](https://iamge-1259297738.cos.ap-chengdu.myqcloud.com/md/Safari.png) |
+| ![Edge](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220622111348_edge.png) | ![Firefox](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220622111318_firefox.png) | ![Chrome](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220622111245_chrome.png) | ![Safari](https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220622111414_safari.png) |
 | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
 |                              last 2 versions                              |                                 last 2 versions                                 |                                last 2 versions                                |                                last 2 versions                                |
 
@@ -189,7 +191,7 @@ Joy-Admin
 ## 九、推荐网站 🔗
 
 > emoji 平台： https://emojixd.com/
-
+>
 > 在线 Mock 平台： https://www.fastmock.site/
 
 ## 十、技术交流QQ群，可在线答疑解惑 ⁉️
