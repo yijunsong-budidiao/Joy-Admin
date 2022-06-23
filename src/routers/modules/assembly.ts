@@ -76,6 +76,17 @@ const assemblyRouter: Array<RouteRecordRaw> = [
 					title: "canvas画布",
 					key: "canvas"
 				}
+			},
+			{
+				path: "/assembly/editor",
+				name: "editor",
+				component: () => import("@/views/assembly/editor/index.vue"),
+				meta: {
+					keepAlive: true,
+					requiresAuth: true,
+					title: "编辑器",
+					key: "editor"
+				}
 			}
 		]
 	}
