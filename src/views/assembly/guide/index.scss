@@ -1,0 +1,38 @@
+.content {
+	position: relative;
+	.demo {
+		position: absolute;
+		text-align: center;
+		width: 100px;
+		height: 100px;
+		line-height: 100px;
+	}
+	#demo1 {
+		top: 150px;
+		left: 100px;
+		background-color: greenyellow;
+	}
+	#demo2 {
+		left: 800px;
+		top: 150px;
+		background-color: yellow;
+		border-radius: 50%;
+	}
+	#demo3 {
+		left: 900px;
+		top: 350px;
+		width: 150px;
+		height: 150px;
+		line-height: 150px;
+		background-color: pink;
+	}
+	#demo4 {
+		left: 300px;
+		top: 350px;
+		width: 200px;
+		height: 200px;
+		line-height: 200px;
+		background-color: purple;
+		border-radius: 20px;
+	}
+}

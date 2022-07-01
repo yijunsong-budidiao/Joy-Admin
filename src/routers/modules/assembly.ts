@@ -87,6 +87,17 @@ const assemblyRouter: Array<RouteRecordRaw> = [
 					title: "编辑器",
 					key: "editor"
 				}
+			},
+			{
+				path: "/assembly/guide",
+				name: "guide",
+				component: () => import("@/views/assembly/guide/index.vue"),
+				meta: {
+					keepAlive: true,
+					requiresAuth: true,
+					title: "引导页",
+					key: "guide"
+				}
 			}
 		]
 	}
