@@ -45,7 +45,7 @@ export default defineConfig((mode: ConfigEnv): UserConfig => {
 			// 代理跨域（mock 不需要配置，这里只是个事列）
 			proxy: {
 				"/api": {
-					target: " https://mock.mengxuegu.com/mock/62d2796512622141e6caa33c",
+					target: "https://mock.mengxuegu.com/mock/62d2796512622141e6caa33c",
 					changeOrigin: true,
 					rewrite: path => path.replace(/^\/api/, "")
 				}

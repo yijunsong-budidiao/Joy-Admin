@@ -201,7 +201,7 @@ Joy-Admin
 
 > emoji 平台： https://emojixd.com/
 >
-> 在线 Mock 平台： https://www.fastmock.site/
+> 在线 Mock 平台： https://mock.mengxuegu.com/
 
 ## 十、技术交流QQ群，可在线答疑解惑 ⁉️
 
