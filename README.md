@@ -1,9 +1,13 @@
 # ✨✨ 开箱即用的 Vue 3.2 + TypeScript + Pinia + Vite2 + Element-Plus 管理系统 🌠🌠
 
+## 感谢 🙏
+
+- 本项目基于 SpicyBoy 的开源项目 Geeker-Admin 开源项目开发的，附上作者链接 https://github.com/HalseySpicy, 非常感谢。
 #### 最近新增功能组件
-+ amap 高德地图api
-+ codemirror 实现编辑器
-+ driver.js 实现新手引导
++ amap 高德地图api （目前支持地图坐标查询功能）
++ codemirror 实现编辑器 （目前支持常用语言渲染，后续会不断更新）
++ driver.js 实现新手引导（功能简单，好上手）
++ markdown 插件使用
 
 #### OSCS 社区的安全徽章
 
@@ -11,7 +15,7 @@
 
 ## 前言 📖
 
-> Joy Admin，是基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理模板，目前利用空余时间开发。整个项目还有很多地方不完善，后期会持续更新。项目中有很多地方写得不是很好，希望大家能多提宝贵意见。后续会不断迭代 🎀🎀🎀
+> Joy Admin，目前利用空余时间开发。整个项目还有很多地方不完善，后期会持续更新。项目中有很多地方写得不是很好，希望大家能多提宝贵意见。后续会不断迭代 🎀🎀🎀
 
 ## 此管理系统的意义 🤷‍♂️
 
