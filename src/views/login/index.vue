@@ -3,7 +3,7 @@
 		<SwitchDark class="dark"></SwitchDark>
 		<div class="login-content">
 			<div class="login-left">
-				<img src="@/assets/images/login_left4.png" alt="login" />
+				<img src="@/assets/images/login_left.png" alt="login" />
 			</div>
 			<div class="login-box">
 				<img class="login-img" src="@/assets/images/form_icon.png" alt="form_icon" />
