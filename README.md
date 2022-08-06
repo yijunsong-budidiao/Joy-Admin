@@ -202,11 +202,3 @@ Joy-Admin
 > emoji 平台： https://emojixd.com/
 >
 > 在线 Mock 平台： https://mock.mengxuegu.com/
-
-## 十、技术交流QQ群，可在线答疑解惑 ⁉️
-
-> 群号： 478980939
-
-|                                                      QQ群二维码                                                       |
-| :-------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://images.cnblogs.com/cnblogs_com/blogs/754047/galleries/2166493/o_220621085605_qq.jpg" alt="Wechat QRcode" width=250> |
