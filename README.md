@@ -1,8 +1,5 @@
 # ✨✨ 开箱即用的 Vue 3.2 + TypeScript + Pinia + Vite2 + Element-Plus 管理系统 🌠🌠
 
-## 感谢 🙏
-
-- 本项目基于 SpicyBoy 的开源项目 Geeker-Admin 开源项目开发的，附上作者链接 https://github.com/HalseySpicy, 非常感谢。
 #### 最近新增功能组件
 + amap 高德地图api （目前支持地图坐标查询功能）
 + codemirror 实现编辑器 （目前支持常用语言渲染，后续会不断更新）
